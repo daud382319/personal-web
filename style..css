@@ -1,0 +1,66 @@
+#nav-manu ul li{
+    list-style-type: none;
+    margin: 10px;
+    float:right;
+
+}
+#nav-manu ul li a{
+    text-decoration: none;
+    color:black;
+}
+body{
+    margin:0px;
+    font-family: 'Arimo', sans-serif;
+}
+h1{
+
+    font: size 50px;
+}
+H2{
+    font-size: 40px;
+}
+p{
+    color:dimgrey;
+}
+.name-highlight{
+    color:orange;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2;
+}
+.half-width img{
+    width:100%;
+}
+.top-banner{
+    background-image: url("developer-portfolio/top-banner.png");
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding:10px 20px;
+    border-radius: 5px;
+    color:white;
+    font-weight:bold;
+}
+section{
+    height:500px;
+    padding-bottom:150px;
+    background-repeat: no-repeat;
+}
+
+.half-width1 {
+width: 500px;
+height:100%;
+background-size: cover;
+background: url("images/Group_33094_1.png");
+background-position: center;
+font-size:2
+}
+.btn{
+    position:left;
+    background-color: orange;;
+}
+
